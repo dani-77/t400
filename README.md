@@ -8,4 +8,4 @@ With coreboot or libreboot already flashed, flash using:
 sudo flashrom -p internal -w nameofthe.rom -V
 -------------------------------------------
   
-With stock bios, you should use an external flasher (Rpi, BBB or another). Find instructions at coreboot.org or libreboot.org or retroboot.org.
+With stock bios, you should use an external flasher (Rpi, BBB or another). Find instructions at coreboot.org or libreboot.org or osboot.org.
